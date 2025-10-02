@@ -1,2 +1,2 @@
-# 97byeongchan.github.io
-My github blog
+# sangminkim-99.github.io
+my github blog
